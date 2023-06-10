@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: "/errorcode4319.github.io"
+baseurl: ""
 # baseurl: "" # Local Test 
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
