@@ -12,7 +12,7 @@ img_path: /gh/errorcode4319/cdn/images
 image:
     path: /avatar.jpg
     alt: Tux and BSD Daemon
-#pin: true 
+pin: false 
 ---
 
 첫 포스팅 테스트.      
