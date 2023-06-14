@@ -1,6 +1,6 @@
 ---
 title: '[NGINX] 1. Nginx 기본 구성 요소 및 주요 명령어'
-date: 2023-06-13 23:27:00 +/0900
+date: 2023-06-14 23:27:00 +/0900
 categories: [Infra, NGINX]
 tags: [infra, nginx, service, network, system]
 author: sdk
