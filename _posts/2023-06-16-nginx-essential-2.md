@@ -1,8 +1,8 @@
 ---
 title: '[NGINX] 2. Nginx를 활용한 네트워크 부하분산'
 date: 2023-06-16 02:00:00 +/0900
-categories: [Infra, NGINX]
-tags: [infra, nginx, service, network, system, 부하 분산, http, tcp/ip]
+categories: [DevOps, NGINX]
+tags: [DevOps, infra, nginx, service, network, system, 부하 분산, http, tcp/ip]
 author: sdk
 toc: true
 comments: false 
