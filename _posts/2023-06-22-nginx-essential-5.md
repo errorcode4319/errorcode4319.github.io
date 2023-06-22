@@ -1,5 +1,5 @@
 ---
-title: '[NGINX 기초] 5. Nginx를 활용한 HTTP 인증'
+title: '[NGINX 기본기 다지기] 5. HTTP 인증'
 date: 2023-06-22 23:55:00 +/0900
 categories: [DevOps, NGINX]
 tags: [DevOps, infra, nginx, service, network, system, http, tcp/ip]

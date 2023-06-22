@@ -1,5 +1,5 @@
 ---
-title: '[NGINX] 4. Nginx를 활용한 콘텐츠 캐싱'
+title: '[NGINX 기본기 다지기] 4. 콘텐츠 캐싱 및 최적화'
 date: 2023-06-19 23:15:00 +/0900
 categories: [DevOps, NGINX]
 tags: [DevOps, infra, nginx, service, network, system, http, tcp/ip]
