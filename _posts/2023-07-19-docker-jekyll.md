@@ -1,5 +1,5 @@
 ---
-title: '[Docker] 컨테이너 환경에서 Jekyll 서버 올리기'
+title: '컨테이너 기반으로 Jekyll 서버 올리기'
 date: 2023-07-19 23:30:00 +/0900
 categories: [DevOps, Linux]
 tags: [DevOps, docker, ruby, jekyll, linux]
