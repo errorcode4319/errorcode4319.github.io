@@ -19,7 +19,7 @@ img_path: /gh/errorcode4319/cdn/images
 
 ## Dockerfile
 Dockerfile은 다음과 같다. 
-```Dockerfile
+```
 FROM ubuntu:22.04
 
 ARG DEBIAN_FRONTEND=noninteractive
