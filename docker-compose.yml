@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  jekyll:
+    container_name: jekyll
+    image: jekyll:0.1
+    #build:
+    #  context: .
+    #  dockerfile: Dockerfile 
+    ports:
+      - 4000:4000 
+    volumes:
+      - ./:/workspace
