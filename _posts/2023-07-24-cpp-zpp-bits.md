@@ -1,6 +1,6 @@
 ---
 title: '[C++] zpp_bits을 활용해 데이터 직렬화 하기'
-date: 2023-07-24 22:30:00 +/0900
+date: 2023-07-24 22:50:00 +/0900
 categories: [c++, common]
 tags: [c, c++, zpp_bits, c++20]
 author: sdk
