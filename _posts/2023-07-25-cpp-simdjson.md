@@ -1,6 +1,6 @@
 ---
-title: '[C++] simdjson을 활용해 빠르게 Json 데이터 처리하기'
-date: 2023-07-25 22:10:00 +/0900
+title: '[C++] simdjson을 활용해 Json 데이터 고속 파싱하기'
+date: 2023-07-25 23:29:00 +/0900
 categories: [c++, common]
 tags: [c, c++, zpp_bits, c++20]
 author: sdk
