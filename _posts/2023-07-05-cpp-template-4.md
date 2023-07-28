@@ -2,7 +2,7 @@
 title: '[C++ Template] 3. 타입이 아닌 템플릿 파라미터'
 date: 2023-07-05 22:00:00 +/0900
 categories: [c++, template]
-tags: [c, c++, template]
+tags: [c, c++, template, cpp-templates-complete-guide]
 author: sdk
 toc: true
 comments: false 

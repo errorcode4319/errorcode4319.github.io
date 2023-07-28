@@ -2,7 +2,7 @@
 title: '[C++ Template] 4. 가변 인자 템플릿'
 date: 2023-07-07 16:30:00 +/0900
 categories: [c++, template]
-tags: [c, c++, template]
+tags: [c, c++, template, cpp-templates-complete-guide]
 author: sdk
 toc: true
 comments: false 

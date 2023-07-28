@@ -2,7 +2,7 @@
 title: '[C++ Template] 5. 까다로운 기초 지식'
 date: 2023-07-23 20:50:00 +/0900
 categories: [c++, template]
-tags: [c, c++, template]
+tags: [c, c++, template, cpp-templates-complete-guide]
 author: sdk
 toc: true
 comments: false 

@@ -2,7 +2,7 @@
 title: '[C++ Template] 1. 함수 템플릿'
 date: 2023-06-26 23:44:00 +/0900
 categories: [c++, template]
-tags: [c, c++, template]
+tags: [c, c++, template, cpp-templates-complete-guide]
 author: sdk
 toc: true
 comments: false 

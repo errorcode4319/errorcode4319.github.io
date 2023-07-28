@@ -2,7 +2,7 @@
 title: '[NGINX 기본기 다지기] 2. 네트워크 부하분산(리버스 프록시)'
 date: 2023-06-16 02:00:00 +/0900
 categories: [DevOps, NGINX]
-tags: [DevOps, infra, nginx, service, network, system, 부하 분산, http, tcp/ip]
+tags: [nginx-cookbook-2/e, DevOps, infra, nginx, service, network, system, 부하 분산, http, tcp/ip]
 author: sdk
 toc: true
 comments: false 

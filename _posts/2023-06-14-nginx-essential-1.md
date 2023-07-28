@@ -2,7 +2,7 @@
 title: '[NGINX 기본기 다지기] 1. 기본 구성 요소 및 주요 명령어'
 date: 2023-06-14 23:27:00 +/0900
 categories: [DevOps, NGINX]
-tags: [infra, nginx, service, network, system]
+tags: [infra, nginx, service, network, system, nginx-cookbook-2/e]
 author: sdk
 toc: true
 comments: false 

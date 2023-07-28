@@ -2,7 +2,7 @@
 title: '[NGINX 기본기 다지기] 3. 네트워크 트래픽 제어'
 date: 2023-06-17 01:00:00 +/0900
 categories: [DevOps, NGINX]
-tags: [DevOps, infra, nginx, service, network, system, http, tcp/ip]
+tags: [nginx-cookbook-2/e, DevOps, infra, nginx, service, network, system, http, tcp/ip]
 author: sdk
 toc: true
 comments: false 

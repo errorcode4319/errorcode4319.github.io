@@ -2,7 +2,7 @@
 title: '[C++ Template] 2. 클래스 템플릿 2'
 date: 2023-07-04 23:25:00 +/0900
 categories: [c++, template]
-tags: [c, c++, template]
+tags: [c, c++, template, cpp-templates-complete-guide]
 author: sdk
 toc: true
 comments: false 
