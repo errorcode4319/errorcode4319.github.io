@@ -1,5 +1,5 @@
 ---
-title: '[C++ Template] 6. 이동 의미론과 enable_if<>'
+title: '[C++ Template] 6. 이동 의미론과 enable_if'
 date: 2023-07-30 21:30:00 +/0900
 categories: [c++, template]
 tags: [c, c++, template, cpp-templates-complete-guide]
@@ -147,7 +147,7 @@ Person(Person& p);
 
 가장 좋은 방법은 인자가 `Person` 인스턴스일 경우 문제가 되는 멤버 템플릿을 비활성화 시키는 것이다.   
 
-## enable_if<> (c++11)
+## enable_if (c++11)
 `std::enable_if<>`는 c++11에서 타입 트레잇에 추가된 템플릿이다. 컴파일 시간에 특정 조건에 따라 함수 템플릿을 활성화(혹은 비활성화) 시킬 수 있도록 해준다.
 
 다음 코드를 보자
