@@ -1,5 +1,5 @@
 ---
-title: '[C++ Template] 6. 이동 의미론과 enable_if<> (+concepts)'
+title: '[C++ Template] 6. 이동 의미론과 enable_if<>'
 date: 2023-07-30 21:30:00 +/0900
 categories: [c++, template]
 tags: [c, c++, template, cpp-templates-complete-guide]
