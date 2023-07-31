@@ -28,3 +28,6 @@ image:
 - MOS6502 (8월중 진행 예정)
 - [C++ Template](https://errorcode4319.github.io/tags/cpp-templates-complete-guide/)
 - [NGINX 기본기 다지기](https://errorcode4319.github.io/tags/nginx-cookbook-2-e/)
+
+## 그 외 
+- [책 리뷰](https://errorcode4319.github.io/tags/book-review/)

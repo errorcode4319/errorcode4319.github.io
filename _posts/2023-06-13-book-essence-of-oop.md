@@ -2,7 +2,7 @@
 title: '[책 리뷰] 객체지향의 사실과 오해'
 date: 2023-06-13 23:27:00 +/0900
 categories: [Programming, Books]
-tags: [book, oop, review]
+tags: [book, oop, review, book-review]
 author: sdk
 toc: true
 comments: false 
