@@ -1,3 +1,6 @@
 [submodule "assets/lib"]
 	path = assets/lib
 	url = https://github.com/cotes2020/chirpy-static-assets.git
+[submodule "web2025-seoultech"]
+	path = web2025-seoultech
+	url = https://github.com/errorcode4319/web2025-seoultech
