@@ -4,3 +4,6 @@
 [submodule "web2025-seoultech"]
 	path = web2025-seoultech
 	url = https://github.com/errorcode4319/web2025-seoultech
+[submodule "simple-aero-dynamics"]
+	path = simple-aero-dynamics
+	url = git@github.com:errorcode4319/simple-aero-dynamics.git
